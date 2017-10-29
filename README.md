@@ -9,3 +9,4 @@ EWA group assignment folder structure
       |- VAS Service
       |- <add folder for your component/service>
        
+	  
